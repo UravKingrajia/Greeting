@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body{
+  background-color: darkred;
+}
+
+.greeting{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 50px;
+  background-color: purple;
+  border: 10px darkblue solid;
+}

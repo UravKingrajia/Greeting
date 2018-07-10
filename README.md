@@ -1,2 +1,0 @@
-# Greeting
-Created with CodeSandbox
